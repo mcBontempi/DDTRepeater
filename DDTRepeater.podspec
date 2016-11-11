@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "10.0"
 
-  s.source       = { :git => "https://github.com/mcBontempi/DDTRepeater.git", :tag => "0.0.11" }
+  s.source       = { :git => "https://github.com/mcBontempi/DDTRepeater.git", :tag => "0.0.1" }
   s.source_files  = "Classes", "*/*.{swift}"
   s.exclude_files = "Classes/Exclude"
   # s.public_header_files = "Classes/**/*.h"
