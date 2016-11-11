@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2806C9668A8CFDD60771330AD1473B9721EAC3DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2806C9668A8CFDD60771330AD1473B9721EAC3DE" : 9223372036854775807,
+    "12CB12D99A8EBADE72CA69AFBB2D088DA9552316" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9EE20356-AE4F-4828-B38E-7823ABD92A10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2806C9668A8CFDD60771330AD1473B9721EAC3DE" : "DDTRepeater\/",
+    "12CB12D99A8EBADE72CA69AFBB2D088DA9552316" : "LSRepeater"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LSRepeater",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LSRepeater.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:LondonSwift\/LSRepeater.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12CB12D99A8EBADE72CA69AFBB2D088DA9552316"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mcBontempi\/DDTRepeater.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2806C9668A8CFDD60771330AD1473B9721EAC3DE"
+    }
+  ]
+}
