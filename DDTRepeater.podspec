@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "DDTRepeater"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.summary      = "Executes a block of code repeatedly"
 
   s.description  = <<-DESC
@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
   s.author             = "Daren David Taylor"
  
   s.platform     = :ios
-  s.platform     = :ios, "10.0"
+  s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/mcBontempi/DDTRepeater.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/mcBontempi/DDTRepeater.git", :tag => "0.0.4" }
   s.source_files  = "Classes", "*/*.{swift}"
   s.exclude_files = "Classes/Exclude"
   # s.public_header_files = "Classes/**/*.h"
